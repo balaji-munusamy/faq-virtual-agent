@@ -1,0 +1,45 @@
+Q,A
+What is kandi?,"kandi (pronounced kan·dee) is a platform that helps developers pick the right library, package, code samples, APIs, and cloud functions, by analyzing over 430 million knowledge items."
+Have feedback or want to know more?,"We are a passionate set of application focused techies. We’d love to hear from you on your feedback, questions, and any other comments.
+Direct Message us on Twitter Message @OpenWeaverInc
+You can email us at kandi.support@openweaver.com
+Join our Discord community here"
+What components does kandi cover?,"kandi helps you select software components across:
+Packages from all package managers and repositories
+Source Code across all major code repositories
+Cloud Functions and APIs across all hyperscale cloud providers"
+How do I use kandi?,"kandi provides two simplified experiences to help you choose the right software component to accelerate your application development:
+
+1. Search
+You can search for the component using natural language to describe your functional and technical requirements, and kandi gets to work by matching these over 430 million knowledge items to show you a shortlist.
+You can further filter them or refine your query and pick your chosen ones based on scores available on the component listing page.
+Click on the components from the list to review detailed insights such as support, quality, security, and a reference guide covering code snippets, community discussions from the provider, and popular channels.
+The component listing and detailed insights page have links to the software component home. Some software components may have multiple providers, and you can access all the links.
+
+2. Explore
+You can Explore kandi curated sections across Popular Collections, Hot Tech, and Industry Domains from the Home Page or the Explore Page. These sections list the popular components among your peers, have functional relevance, and positive security, quality, and support scores in the respective areas.
+You can browse these sections to get industry insights.
+You can further filter them and pick your chosen ones based on scores available on the component listing page.
+Click on the components from the list to review detailed insights such as support, quality, security, and a reference guide covering code snippets, community discussions from the provider, and popular channels.
+The component listing and detailed insights page have links to the software component home. Some software components may have multiple providers, and you can access all the links."
+How do I shortlist components on kandi?,"You can use the below filters to shortlist components based on your architectural preferences:
+
+Languages – This is an expanding list of languages chosen by popularity amongst kandi users.
+Licenses – Licenses are grouped by:
+
+OSS License families, covering Permissive, Weak Copyleft, and Strong Copyleft.
+Proprietary license category covering the emerging cloud licenses as well as As-a-Service contracts.
+No License indicates that the respective repository does not have the license file declared as per the repository manager’s standard. They could still have a license file declared in a different format or section. Components without a license have all rights reserved, and you may not be able to use them. Hence kandi alerts you when a valid license file is not found.
+
+Support – High support indicates a thriving ecosystem across the author and users, that will help you implement with relative ease.
+Component Types – Component Types are grouped by:
+
+Libraries from package managers and repositories that can be readily installed.
+Source Code that may or may not be associated with a package and are from code repositories.
+Cloud Functions and APIs that are provided As-a-Service from cloud providers.
+
+Sources – This is an expanding list of software component sources chosen by popularity amongst kandi users.
+Industries – This indicates the industry domain that the component has been associated with or could be used in, for specific use cases.
+Security – This reflects the security score of the software component across reported and code-based vulnerabilities."
+How do I implement the components that I have selected on kandi?,"The component listing and detailed insights page have links to the software component home. Some software components may have multiple providers, and you can access all the links.
+You can follow implementation instructions from the software component home page based on the component type."
